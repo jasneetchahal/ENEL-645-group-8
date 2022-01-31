@@ -2,7 +2,7 @@
 Data Mining and Machine Learning
 
 Group Members:
-1. Jasneet Kaur Chahal
+1. Jasneet Kaur Chahal - UCID 30119845
 2. Ahmad Elkholy
 3. Ramneek Kaur - UCID#30138283
 4. Lakshmi Teja Makineni
