@@ -6,5 +6,5 @@ Group Members:
 2. Ahmad Elkholy
 3. Ramneek Kaur - UCID#30138283
 4. Lakshmi Teja Makineni
-5. Muhammad Raihan
+5. Muhammad Ammaar Raihan - UCID 30139255
 6. Parth Shah - UCID#30136276
